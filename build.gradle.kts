@@ -48,7 +48,7 @@ tasks.runPluginVerifier {
 tasks.patchPluginXml {
     version.set(projectVersion)
     sinceBuild.set("203.7148.57")
-    untilBuild.set("233.*")
+    untilBuild.set("241.*")
 }
 
 tasks.runIde {

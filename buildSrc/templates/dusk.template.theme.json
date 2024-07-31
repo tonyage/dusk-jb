@@ -277,7 +277,6 @@
     "Popup": {
       "background": "background",
       "borderColor": "backgroundTertiary",
-      "Toolbar.borderColor": "borderColor",
       "Header.activeBackground": "selectionBackground",
       "Header.inactiveBackground": "background",
       "Advertiser": {
